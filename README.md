@@ -11,9 +11,11 @@ An e-commerce analytics project built using the Brazilian Olist dataset.
 - Customer RFM segmentation
 - Delivery and review analysis
 
-## Dashboard
+## 🔗 Dashboard
 
 Interactive Streamlit dashboard with filters and Plotly visualizations.
+
+**Live Dashboard:** https://olist-ecommerce-sql-analysis-w3qozraszdwuskek2ba8qu.streamlit.app/
 
 ## Tools
 
